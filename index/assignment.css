@@ -1,0 +1,63 @@
+html {
+  background: #d7e7f4;
+}
+body {
+  margin: 0px;
+}
+
+.left {
+  background: #d7e7f4;
+  width: 15%;
+  float: left;
+  height: 100%;
+}
+
+.middle {
+  margin-top: 0px;
+  background: white;
+  float: left;
+  width: 70%;
+  height: 100%;
+  position: relative;
+}
+
+.img {
+  position: absolute;
+  margin-left: 22px;
+}
+.link {
+  position: absolute;
+  right: 32px;
+  top: 5px;
+}
+
+.ank {
+  float: right;
+  color: #007baf;
+}
+
+.btn {
+  color: white;
+  background-color: #007baf;
+  border: none;
+  padding: 3px;
+  font-size: 13px;
+}
+
+.right {
+  background-color: #d7e7f4;
+  width: 15%;
+  float: left;
+  height: 100%;
+}
+.hrtop {
+  height: 5px;
+  background: black;
+  width: 100%;
+  margin-top: 120;
+}
+
+.logn {
+  color: #007baf;
+  margin-top: 14px;
+}
